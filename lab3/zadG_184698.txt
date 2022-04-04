@@ -1,0 +1,12 @@
+Metoda bezpośrednia wykonała się bardzo szybko - około pół sekundy.
+
+Metoda Jacobiego wykonała się bardzo szybko - około 1 sekundy.
+
+Rozwiązaine za pomoca metody Gaussa-Seildera zajmuje około 2,5 minuty.
+
+Zbieganie się obu metod zależy od właściwości macierzy M.
+
+Metoda Jacobiego nie zbiega się, ponieważ norma z residuum przujmuje wartość nieskończoność. W materiałach wykładowych podana jest informacja, że aby metoda Jacobiego zbiegała się, musi zachodzić zależność D^-1(L+U) < 1, która w tym przypadku jest fałszywa. 
+
+Metoda Gaussa-Seidlera nie zbiega się, ponieważ norma z residuum przyjmuje wartość NAN.
+

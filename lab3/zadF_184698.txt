@@ -1,0 +1,9 @@
+W każdej z metod na czas wykonywania wpływa najbardziej rozmiar macierzy wejściowej. 
+
+Najwolniejsza jest metoda bezpośrednia.
+
+Metoda Jacobi potrzebuje o wiele mniej czasu niż metoda Bezpośrednia, ale i tak jest wolniejsza niż metoda Gaussa-Seidela. 
+
+W metodzie Jabociego liczba iteracji wynosi okolo 215, a w metodzie Gaussa-Seidlera jest to około 110.
+
+W obydwu metodach iteracyjnych norma residuum maleje proporcjonalnie wraz z każdą iteracją.

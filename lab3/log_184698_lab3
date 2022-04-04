@@ -1,0 +1,40 @@
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep out; end
+if system_dependent('IsDebugMode')==1, dbcont; end
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadABC_184698.mlx',1)
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadD_184698.mlx',1)
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadE_184698.mlx',1)
+uiimport('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\zadB_184698.mat',1)
+uiimport('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\zadB_184698.mat',1)
+load('zadB_184698.mat')
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbquit; end
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadF_184698.mlx',1)
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadG_184698.mlx',1)
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadD_184698.mlx',1)
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadD_184698.mlx',1)
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadG_184698.mlx',1)
+uiopen('C:\Informatyka\4 SEMESTR\Metody Numeryczne\Lab\lab 3 MN\lab3_zadE_184698.mlx',1)
