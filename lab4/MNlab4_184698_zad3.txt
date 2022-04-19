@@ -1,0 +1,5 @@
+fzero(@tan,4.5, options):
+Do obliczenia wyniku zostały wykorzystane metody bisekcji oraz interpolacji. Metody tych dwóch typów zostały wykorzystane około tyle samo razy. Funckja przestała się wykonywać po 68 iteracjach. Komentarz do wyniku wypisany w konsoli Matlaba informuje nas, że funkcja zbiega do punktu osobliwości(ang. singular point). Wartość f(x) rosła gdy interwał się zmniejszał. Funkcja nie znalazła prawidłowego rozwiązania.
+
+fzero(@tan,6, options):
+Do obliczenia wyniku została wykorzystana metoda interpolacji. Wynik został zwrócony po 13 iteracjach. Niedokładność wyniku wyniosła -2.44929e-16.
